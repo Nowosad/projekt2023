@@ -1,0 +1,1 @@
+Co robi wasz program?
