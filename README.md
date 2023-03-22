@@ -1,1 +1,3 @@
 Co robi wasz program?
+
+Mój program robi to i tamto...
